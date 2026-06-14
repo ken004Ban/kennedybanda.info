@@ -275,6 +275,32 @@ export const DATA = {
       video: "",
     },
     {
+      title: "Nova — Daily Routine Tracker",
+      href: "https://expo.dev/accounts/kennedybanda.info/projects/nova",
+      dates: "2025 – Present (In Testing)",
+      active: true,
+      description:
+        "Dark-themed mobile application for managing and tracking daily routines. Features offline-first local data persistence, scheduled notifications and reminders, animated interactions, and performance-optimised list rendering across Today, History, and Stats views.",
+      technologies: [
+        "React Native",
+        "Expo SDK 56",
+        "SQLite",
+        "Zustand",
+        "Reanimated",
+        "FlashList",
+        "React Navigation",
+      ],
+      links: [
+        {
+          type: "Preview",
+          href: "https://expo.dev/accounts/kennedybanda.info/projects/nova",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "",
+      video: "",
+    },
+    {
       title: "VaultSync24 — Secure File Sharing",
       href: "https://github.com/ken004Ban/vaultsync24",
       dates: "2026 – Present",
