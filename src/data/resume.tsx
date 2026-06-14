@@ -275,6 +275,31 @@ export const DATA = {
       video: "",
     },
     {
+      title: "VaultSync24 — Secure File Sharing",
+      href: "https://github.com/ken004Ban/vaultsync24",
+      dates: "2026 – Present",
+      active: true,
+      description:
+        "Cloud-based file sharing platform that generates secure download links with automatic 24-hour expiry. Built with a focus on privacy, audit logging, and access tracking — files are automatically cleaned up after expiry.",
+      technologies: [
+        "TypeScript",
+        "Next.js",
+        "React",
+        "PostgreSQL",
+        "JWT",
+        "Tailwind CSS",
+      ],
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/ken004Ban/vaultsync24",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "",
+      video: "",
+    },
+    {
       title: "VaultSync",
       href: "#",
       dates: "2023 – 2024",
