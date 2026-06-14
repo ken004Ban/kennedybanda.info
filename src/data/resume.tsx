@@ -151,8 +151,8 @@ export const DATA = {
       href: "#",
       degree: "Bachelor of Science in Computer Science (ZAQA Verified)",
       logoUrl: "",
-      start: "2020",
-      end: "2023",
+      start: "2021",
+      end: "November 2025",
     },
   ],
   certifications: [
