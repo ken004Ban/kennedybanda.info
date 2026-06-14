@@ -230,6 +230,28 @@ export const DATA = {
       video: "",
     },
     {
+      title: "Alitasha Lodge — Business Website",
+      href: "https://alitasha-lodge-bk.onrender.com",
+      dates: "2026 – Present",
+      active: true,
+      description:
+        "Live hospitality website built for Alitasha Lodge. Features property showcase, room listings, and booking interface. Deployed on Render.",
+      technologies: [
+        "React",
+        "Node.js",
+        "CSS",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://alitasha-lodge-bk.onrender.com",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "",
+      video: "",
+    },
+    {
       title: "VaultSync",
       href: "#",
       dates: "2023 – 2024",
