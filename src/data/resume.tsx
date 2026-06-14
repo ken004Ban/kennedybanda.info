@@ -252,6 +252,29 @@ export const DATA = {
       video: "",
     },
     {
+      title: "Signal — AI Research Tool",
+      href: "https://signal-beta-one.vercel.app",
+      dates: "2026 – Present",
+      active: true,
+      description:
+        "Scroll-driven cinematic research tool that transforms from quiet particle animations into a fully functional web search interface. Powered by the Tavily search API, delivering clean, structured results with a focus on research clarity.",
+      technologies: [
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Tavily API",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://signal-beta-one.vercel.app",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "",
+      video: "",
+    },
+    {
       title: "VaultSync",
       href: "#",
       dates: "2023 – 2024",
